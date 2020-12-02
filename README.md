@@ -9,6 +9,8 @@ The purpose of this project was to compare stock performance between the year 20
 ## Results
 ### Stock Performance in 2017 and 2018
 
+[VBA Challenge Spreadsheet](VBA_Challenge.xlsm)
+
 Table 1: All Stocks Data for 2017
 
 ![All Stocks 2017](Resources/All_Stocks_2017.png)
