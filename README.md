@@ -5,12 +5,13 @@
 ### Purpose
 The purpose of this project was to compare stock performance between the year 2017 and 2018, using refactored VBA script in Microsoft Excel. The goal was to determine if refactoring would increase the efficiency of the original VBA script.
 <br>
+
 ## Results
 ### Stock Performance in 2017 and 2018
 <br>
 Table 1: All Stock Data for 2017
 <br>
-
+![image_name](Resources/All_Stocks_2017.png)
 <br>
 <br>
 Table 2: All Stock Data for 2018
@@ -25,6 +26,7 @@ For both 2017 and 2018, TERP would not have been a wise stock to invest in, perf
 RUN is the only stock that improved from one year to the other, increasing 78.5%.
 <br>
 <br>
+
 ### Analysis of VBA Code Runtime
 <br>
 <br>
@@ -51,4 +53,8 @@ The refactored code resulted in a runtime of 0.234375 seconds.
 Overall, the refactored VBA code proved to improve the efficiency of the original script by lowering the runtime of the stock analysis for both years.
 <br>
 <br>
+
 ## Summary
+
+
+
