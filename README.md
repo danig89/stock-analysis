@@ -29,7 +29,7 @@ RUN is the only stock that improved from one year to the other, increasing 78.5%
 
 ### Analysis of VBA Code Runtime
 
-Using the original VBA code to analyze stock data from 2017, the runtime 0.9570313 seconds.
+Using the original VBA code to analyze stock data from 2017, the runtime was 0.9570313 seconds.
 <br>
 
 ![VBA Challenge Original 2017](Resources/VBA_Challenge_Original_2017.png)
@@ -41,7 +41,7 @@ The refactored code resulted in a runtime of 0.25 seconds.
 ![VBA Challenge 2017](Resources/VBA_Challenge_2017.png)
 <br>
 
-Using the original VBA code to analyze stock data from 2018, the runtime 0.9765625 seconds. 
+Using the original VBA code to analyze stock data from 2018, the runtime was 0.9765625 seconds. 
 <br>
 
 ![VBA Challenge Original 2018](Resources/VBA_Challenge_Original_2018.png)
@@ -73,5 +73,4 @@ Refactoring can also lead to errors in the code. The point of refactoring is to 
 <br>
 
 ### Advantages and Disadvantages of Original and Refactored VBA Script
-
 
