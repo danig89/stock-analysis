@@ -10,9 +10,9 @@ The purpose of this project was to compare stock performance between the year 20
 ### Stock Performance in 2017 and 2018
 <br>
 Table 1: All Stock Data for 2017
-<br>
 
-<br>
+![All Stocks 2017](Resources/All_Stocks_2017.png)
+
 <br>
 Table 2: All Stock Data for 2018
 <br>
