@@ -25,7 +25,6 @@ For both 2017 and 2018, TERP would not have been a wise stock to invest in, perf
 <br>
 RUN is the only stock that improved from one year to the other, increasing 78.5%.
 <br>
-<br>
 
 ### Analysis of VBA Code Runtime
 <br>
