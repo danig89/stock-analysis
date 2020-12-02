@@ -10,7 +10,7 @@ The purpose of this project was to compare stock performance between the year 20
 <br>
 Table 1: All Stock Data for 2017
 <br>
-![image_name](Resources/All_Stocks_2017.png)
+![Image](Resources/All_Stocks_2017.png)
 <br>
 <br>
 Table 2: All Stock Data for 2018
@@ -29,6 +29,7 @@ RUN is the only stock that improved from one year to the other, increasing 78.5%
 <br>
 <br>
 Using the original VBA code to analyze stock data from 2017, the runtime 0.9570313 seconds.
+<br>
 <br>
 ![image_name](Resources/VBA_Challenge_Original_2017.png)
 <br>
