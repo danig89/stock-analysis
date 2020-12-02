@@ -54,7 +54,6 @@ The refactored code resulted in a runtime of 0.234375 seconds.
 
 Overall, the refactored VBA code proved to improve the efficiency of the original script by lowering the runtime of the stock analysis for both years.
 <br>
-<br>
 
 ## Summary
 
