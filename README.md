@@ -97,6 +97,7 @@ Original Code:
 <br>
 Refactored Code:
 <br>
+<br>
 ![Increased Volume of Ticker](Resources/Increased_Volume_for_Ticker.png)
 <br>
 Another advantage was that it allowed me to gain experience in debugging code. During refactoring, I ran into multiple errors due to spacing, misspelling words, and forgetting symbols and punctuation. I learned the importance of reviewing my script as I work through it. Refactoring the code also allowed for looping through thousands of stocks.
