@@ -77,6 +77,8 @@ Refactoring can also lead to errors in the code. The point of refactoring is to 
 #### Original Code
 
 An advantage of the original code is that it took less time to complete and was more simplified than the refactored code. 
+<br>
+<br>
 A disadvantage of the original code is that it had a slower runtime. The script also limited analysis to only a dozen stocks.
 
 #### Refactored Code
