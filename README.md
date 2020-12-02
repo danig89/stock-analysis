@@ -50,6 +50,7 @@ Using the original VBA code to analyze stock data from 2018, the runtime 0.97656
 <br>
 The refactored code resulted in a runtime of 0.234375 seconds.
 <br>
+
 ![VBA Challenge 2018](Resources/VBA_Challenge_2018.png)
 <br>
 
