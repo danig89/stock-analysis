@@ -10,12 +10,12 @@ The purpose of this project was to compare stock performance between the year 20
 <br>
 Table 1: All Stock Data for 2017
 <br>
-![image_name](Resources1/All_Stocks_2017.png)
+
 <br>
 <br>
 Table 2: All Stock Data for 2018
 <br>
-![image_name](Resources/All_Stocks_2018.png)
+
 <br>
 <br>
 From the displayed data, it is apparent that majority of all the stocks performed better in 2017 than 2018. For example, in 2017, the return rate for DQ was 199.4%; however, in 2018, it performed at -62.6%. ENPH had a return rate of 129.5% in 2017 but did not perform as well in 2018 (81.9%). ENPH is the only stock that performed well in both years. 
@@ -30,6 +30,25 @@ RUN is the only stock that improved from one year to the other, increasing 78.5%
 <br>
 Using the original VBA code to analyze stock data from 2017, the runtime 0.9570313 seconds.
 <br>
+
 <br>
-![image_name](Resources/VBA_Challenge_Original_2017.png)
 <br>
+The refactored code resulted in a runtime of 0.25 seconds.
+<br>
+
+<br>
+<br>
+Using the original VBA code to analyze stock data from 2018, the runtime 0.9765625 seconds. 
+<br>
+
+<br>
+<br>
+The refactored code resulted in a runtime of 0.234375 seconds.
+<br>
+
+<br>
+<br>
+Overall, the refactored VBA code proved to improve the efficiency of the original script by lowering the runtime of the stock analysis for both years.
+<br>
+<br>
+## Summary
