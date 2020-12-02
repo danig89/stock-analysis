@@ -26,7 +26,6 @@ For both 2017 and 2018, TERP would not have been a wise stock to invest in, perf
 <br>
 <br>
 RUN is the only stock that improved from one year to the other, increasing 78.5%.
-<br>
 
 ### Analysis of VBA Code Runtime
 
@@ -72,6 +71,7 @@ Although refactoring can help subsequent programmers speed up their work, refact
 Refactoring can also lead to errors in the code. The point of refactoring is to make code more efficient while getting the same result. A break in the code could alter the end result, leading to more troubleshooting for the author.
 <br>
 <br>
+
 ### Advantages and Disadvantages of Original and Refactored VBA Script
 <br>
 
