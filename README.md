@@ -74,3 +74,36 @@ Refactoring can also lead to errors in the code. The point of refactoring is to 
 
 ### Advantages and Disadvantages of Original and Refactored VBA Script
 
+#### Original Code
+
+An advantage of the original code is that it took less time to complete and was more simplified than the refactored code. 
+A disadvantage of the original code is that it had a slower runtime. The script also limited analysis to only a dozen stocks.
+
+#### Refactored Code
+
+The main advantage of refactoring the VBA script was that it decreased the runtime of the code. Some improvements in code that resulted in faster performance include:
+Creating three output arrays:
+<br>
+
+![Three Output Arrays](Resources/Three_Output_Arrays.png)
+<br>
+Increasing the volume of the current ticker
+<br>
+<br>
+Original Code:
+<br>
+
+![Original Volume of Ticker](Resources/Original_Volume_for_Ticker.png)
+<br>
+Refactored Code:
+<br>
+![Increased Volume of Ticker](Resources/Increased_Volume_for_Ticker.png)
+<br>
+Another advantage was that it allowed me to gain experience in debugging code. During refactoring, I ran into multiple errors due to spacing, misspelling words, and forgetting symbols and punctuation. I learned the importance of reviewing my script as I work through it. Refactoring the code also allowed for looping through thousands of stocks.
+<br>
+<br>
+Refactoring was also helpful with looping through thousands of stocks at one time.
+<br>
+<br>
+Debugging also presented a disadvantage, as I had to spend a great amount of time finding erroneous code and correcting it. This also resulted in data analysis differing from the results of the original code. 
+
