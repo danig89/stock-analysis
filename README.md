@@ -15,7 +15,8 @@ Table 1: All Stock Data for 2017
 
 <br>
 Table 2: All Stock Data for 2018
-<br>
+
+![All Stocks 2018](Resources/All_Stocks_2018.png)
 
 <br>
 <br>
