@@ -59,7 +59,7 @@ Overall, the refactored VBA code proved to improve the efficiency of the origina
 ## Summary
 
 ### Advantages and Disadvantages of Recfactoring Code
-<br>
+
 Refactoring code is a valuable tool in programming, used to string together a sequence of steps within a script to improve the efficiency of executing the code. An advantage of refactoring is that it makes code more readable. If a programmer followed my refactored work, it would be structured in a way that is easier to understand. The original code could work well, but its structure could be difficult for others to understand. Refactoring code could help make a project for another programmer easier in the future by better communicating its purpose (Fowler, 2018).
 <br>
 <br>
@@ -70,8 +70,7 @@ Although refactoring can help subsequent programmers speed up their work, refact
 <br>
 Refactoring can also lead to errors in the code. The point of refactoring is to make code more efficient while getting the same result. A break in the code could alter the end result, leading to more troubleshooting for the author.
 <br>
-<br>
 
 ### Advantages and Disadvantages of Original and Refactored VBA Script
-<br>
+
 
