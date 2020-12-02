@@ -27,7 +27,6 @@ RUN is the only stock that improved from one year to the other, increasing 78.5%
 <br>
 
 ### Analysis of VBA Code Runtime
-<br>
 Using the original VBA code to analyze stock data from 2017, the runtime 0.9570313 seconds.
 <br>
 
